@@ -1,0 +1,6 @@
+﻿  GK_Zadanie1.cpp
+d:\programowanie\gk_zadanie1\gk_zadanie1\gk_zadanie1.cpp(131): warning C4244: 'initializing': conversion from 'float' to 'GLsizei', possible loss of data
+d:\programowanie\gk_zadanie1\gk_zadanie1\gk_zadanie1.cpp(163): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\programowanie\gk_zadanie1\gk_zadanie1\gk_zadanie1.cpp(219): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+d:\programowanie\gk_zadanie1\gk_zadanie1\gk_zadanie1.cpp(225): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+  GK_Zadanie1.vcxproj -> D:\Programowanie\GK_Zadanie1\Debug\GK_Zadanie1.exe
